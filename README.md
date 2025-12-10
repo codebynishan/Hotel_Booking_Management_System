@@ -1,9 +1,9 @@
-# 🏨 Hotel Booking Management System (MSSQL Project)
+# Hotel Booking Management System (MSSQL Project)
 
 This is a **Hotel Booking Management System** developed using **Microsoft SQL Server (MSSQL)** as part of a **college project**. 
 The project manages hotel operations such as room bookings, customer information, staff assignments, and payment processing using a relational database structure.
 
-## 📚 Project Description
+##  Project Description
 
 The Hotel Booking Management System is designed to simplify the management of hotel data and streamline day-to-day operations. 
 This backend-focused system uses SQL scripts to create and manage the following components:
@@ -16,7 +16,7 @@ This backend-focused system uses SQL scripts to create and manage the following 
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - **Database**: Microsoft SQL Server
 - **Tool**: Azure Data Studio / Docker
