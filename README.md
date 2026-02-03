@@ -1,4 +1,4 @@
-# Hotel Booking Management System (MSSQL Project)
+# Hotel Booking Management System 
 
 This is a **Hotel Booking Management System** developed using **Microsoft SQL Server (MSSQL)** as part of a **college project**. 
 The project manages hotel operations such as room bookings, customer information, staff assignments, and payment processing using a relational database structure.
