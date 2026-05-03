@@ -15,6 +15,8 @@ This backend-focused system uses SQL scripts to create and manage the following 
 - Payment and billing
 
 ---
+## ERD Diagram
+![Hotel ERD](erd.png)
 
 ##  Technologies Used
 
